@@ -29,6 +29,7 @@ Com base no vídeo de lançamento do iPhone de 2007 (link abaixo), você deve el
 
 ### Diagrama Finalizado
 
+```mermaid
 classDiagram
     class ReprodutorMusical {
         +tocar()
@@ -54,3 +55,5 @@ classDiagram
     iPhone --> ReprodutorMusical
     iPhone --> AparelhoTelefonico
     iPhone --> NavegadorInternet
+```
+
